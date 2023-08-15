@@ -1,5 +1,5 @@
 # ![xcpustress & strgensvc Icon](https://github.com/InsertX2k/xcpustress/assets/62176660/fdb4cc3a-9d84-49f8-a5ab-3be579bdb19c) xcpustress
-A simple program written in Python to help you perform a stress test on your processor
+A simple program written in Python to help you perform a stress test on your processor, inspired by [Advanced Password Generator by Mr.X](https://github.com/InsertX2k/apg)
 
 ## Screenshots
 * `xcpustress.exe` on **Monster stress testing mode**  <br> ![XCPUStress on Monster test mode](https://github.com/InsertX2k/xcpustress/assets/62176660/5498b9a5-5ecb-4aed-b96f-535798238141) <br> **Hint:** You can always stop a running stress test by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd> on the console window of the program or by executing the command `taskkill /f /im xcpustress_rstrhost.exe`
